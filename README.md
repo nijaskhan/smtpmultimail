@@ -1,7 +1,7 @@
 # smtpmultimail
 # fully_encrypted_smtp_mail_services
 
-This code used to send multiple Emails by using GMAIL (THIS APP ONLY SUPPORTS GMAIL mail-ids).
+This code used to send multiple Emails by using GMAIL.
 We can use this app for social engineering trick in Mass Mailing Attack.
 By using this App we can send unlimited emails to anyone with a just a click.
 
