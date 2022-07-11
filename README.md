@@ -20,7 +20,8 @@ command to run the code :
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/92925838/178205092-6a1d7bef-debf-4b5b-949a-f64e21012d35.png)
 
-running executable file in windows ( smtpmultimail.exe )
+
+RUNNING EXECUTABLE FILE IN WINDOWS ( smtpmultimail.exe )
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/92925838/178205565-5280c403-0a70-4663-8487-f965b32a571a.png)
 
